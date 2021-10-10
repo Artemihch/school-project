@@ -3,7 +3,6 @@
 #include <QTextStream>
 #include <QApplication>
 
-// СДЕЛАТЬ КНОПКУ ОБНОВЛЕНИЯ ПАРОЛЯ
 
 int main(int argc, char *argv[])
 {
